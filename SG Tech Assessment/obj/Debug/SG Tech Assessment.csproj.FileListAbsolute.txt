@@ -1,0 +1,12 @@
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\obj\Debug\SG Tech Assessment.csprojResolveAssemblyReference.cache
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\obj\Debug\SG Tech Assessment.csproj.CoreCompileInputs.cache
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\SG Tech Assessment.exe.config
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\SG Tech Assessment.exe
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\SG Tech Assessment.pdb
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\obj\Debug\SG Tech Assessment.exe
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\obj\Debug\SG Tech Assessment.pdb
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\Castle.Core.dll
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\Moq.dll
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\Castle.Core.xml
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\Moq.pdb
+D:\Users\Wesley\Projects\SG Tech Assessment\SG Tech Assessment\bin\Debug\Moq.xml
